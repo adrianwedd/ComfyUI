@@ -24,6 +24,7 @@ av>=17.0.0
 comfy-kitchen==0.2.37
 comfy-aimdo==0.5.6
 requests
+certifi>=2026.10.19
 simpleeval>=1.0.0
 blake3
 cryptography

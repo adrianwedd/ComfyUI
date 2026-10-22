@@ -1,0 +1,3 @@
+# Build/install tools; keep model dependencies in requirements.txt unchanged.
+pip==26.2.2
+uv==0.13.4
